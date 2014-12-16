@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTourDeFrance.Backend", "LeTourDeFrance.Backend\LeTourDeFrance.Backend.csproj", "{B9B6582F-EC01-4B81-8C0E-9F9254C0372D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeTourDeFrance.Frontend", "..\LeTourDeFrance.Frontend\LeTourDeFrance.Frontend.csproj", "{CC9DB09E-03BC-44D5-B525-EE5AC5FE73B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{B9B6582F-EC01-4B81-8C0E-9F9254C0372D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9B6582F-EC01-4B81-8C0E-9F9254C0372D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9B6582F-EC01-4B81-8C0E-9F9254C0372D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC9DB09E-03BC-44D5-B525-EE5AC5FE73B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC9DB09E-03BC-44D5-B525-EE5AC5FE73B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC9DB09E-03BC-44D5-B525-EE5AC5FE73B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC9DB09E-03BC-44D5-B525-EE5AC5FE73B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
