@@ -1,0 +1,1188 @@
+[{
+	"No.": 1,
+	"Name": "Chris Froome",
+	"Nationality": "Great Britain",
+	"Team": "Team Sky"
+},
+{
+	"No.": 2,
+	"Name": "Bernhard Eisel",
+	"Nationality": "Austria",
+	"Team": "Team Sky"
+},
+{
+	"No.": 3,
+	"Name": "Vasil Kiryienka",
+	"Nationality": "Belarus",
+	"Team": "Team Sky"
+},
+{
+	"No.": 4,
+	"Name": "David Lopez",
+	"Nationality": "Spain",
+	"Team": "Team Sky"
+},
+{
+	"No.": 5,
+	"Name": "Mikel Nieve",
+	"Nationality": "Spain",
+	"Team": "Team Sky"
+},
+{
+	"No.": 6,
+	"Name": "Danny Pate",
+	"Nationality": "United States",
+	"Team": "Team Sky"
+},
+{
+	"No.": 7,
+	"Name": "Richie Porte",
+	"Nationality": "Australia",
+	"Team": "Team Sky"
+},
+{
+	"No.": 8,
+	"Name": "Geraint Thomas",
+	"Nationality": "Great Britain",
+	"Team": "Team Sky"
+},
+{
+	"No.": 9,
+	"Name": "Xabier Zandio",
+	"Nationality": "Spain",
+	"Team": "Team Sky"
+},
+{
+	"No.": 11,
+	"Name": "Alejandro Valverde",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 12,
+	"Name": "Imanol Erviti",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 13,
+	"Name": "John Gadret",
+	"Nationality": "France",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 14,
+	"Name": "Jess Herrada ",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 15,
+	"Name": "Beat Intxausti",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 16,
+	"Name": "Jon Izagirre ",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 17,
+	"Name": "Rubn Plaza",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 18,
+	"Name": "Joaqun Rojas",
+	"Nationality": "Spain",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 19,
+	"Name": "Giovanni Visconti",
+	"Nationality": "Italy",
+	"Team": "Movistar Team"
+},
+{
+	"No.": 21,
+	"Name": "Joaquim Rodrguez",
+	"Nationality": "Spain",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 22,
+	"Name": "Vladimir Isaichev",
+	"Nationality": "Russia",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 23,
+	"Name": "Alexander Kristoff",
+	"Nationality": "Norway",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 24,
+	"Name": "Luca Paolini",
+	"Nationality": "Italy",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 25,
+	"Name": "Alexander Porsev",
+	"Nationality": "Russia",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 26,
+	"Name": "Egor Silin",
+	"Nationality": "Russia",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 27,
+	"Name": "Gatis Smukulis",
+	"Nationality": "Latvia",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 28,
+	"Name": "Simon pilak",
+	"Nationality": "Slovenia",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 29,
+	"Name": "Yuri Trofimov",
+	"Nationality": "Russia",
+	"Team": "Team Katusha"
+},
+{
+	"No.": 31,
+	"Name": "Alberto Contador",
+	"Nationality": "Spain",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 32,
+	"Name": "Daniele Bennati",
+	"Nationality": "Italy",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 33,
+	"Name": "Jess Hernndez",
+	"Nationality": "Spain",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 34,
+	"Name": "Rafa Majka ",
+	"Nationality": "Poland",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 35,
+	"Name": "Michael Morkov",
+	"Nationality": "Denmark",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 36,
+	"Name": "Sergio Paulinho",
+	"Nationality": "Portugal",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 37,
+	"Name": "Nicolas Roche",
+	"Nationality": "Ireland",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 38,
+	"Name": "Michael Rogers",
+	"Nationality": "Australia",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 39,
+	"Name": "Matteo Tosatto",
+	"Nationality": "Italy",
+	"Team": "Team Tinkoff-Saxo"
+},
+{
+	"No.": 41,
+	"Name": "Vincenzo Nibali",
+	"Nationality": "Italy",
+	"Team": "Astana"
+},
+{
+	"No.": 42,
+	"Name": "Jakob Fuglsang",
+	"Nationality": "Denmark",
+	"Team": "Astana"
+},
+{
+	"No.": 43,
+	"Name": "Andriy Hryvko",
+	"Nationality": "Ukraine",
+	"Team": "Astana"
+},
+{
+	"No.": 44,
+	"Name": "Dmitriy Gruzdev",
+	"Nationality": "Kazakhstan",
+	"Team": "Astana"
+},
+{
+	"No.": 45,
+	"Name": "Maxim Iglinsky",
+	"Nationality": "Kazakhstan",
+	"Team": "Astana"
+},
+{
+	"No.": 46,
+	"Name": "Tanel Kangert",
+	"Nationality": "Estonia",
+	"Team": "Astana"
+},
+{
+	"No.": 47,
+	"Name": "Michele Scarponi",
+	"Nationality": "Italy",
+	"Team": "Astana"
+},
+{
+	"No.": 48,
+	"Name": "Alessandro Vanotti",
+	"Nationality": "Italy",
+	"Team": "Astana"
+},
+{
+	"No.": 49,
+	"Name": "Lieuwe Westra",
+	"Nationality": "Netherlands",
+	"Team": "Astana"
+},
+{
+	"No.": 51,
+	"Name": "Peter Sagan ",
+	"Nationality": "Slovakia",
+	"Team": "Cannondale"
+},
+{
+	"No.": 52,
+	"Name": "Maciej Bodnar",
+	"Nationality": "Poland",
+	"Team": "Cannondale"
+},
+{
+	"No.": 53,
+	"Name": "Alessandro De Marchi",
+	"Nationality": "Italy",
+	"Team": "Cannondale"
+},
+{
+	"No.": 54,
+	"Name": "Ted King",
+	"Nationality": "United States",
+	"Team": "Cannondale"
+},
+{
+	"No.": 55,
+	"Name": "Kristijan Koren",
+	"Nationality": "Slovenia",
+	"Team": "Cannondale"
+},
+{
+	"No.": 56,
+	"Name": "Marco Marcato",
+	"Nationality": "Italy",
+	"Team": "Cannondale"
+},
+{
+	"No.": 57,
+	"Name": "Jean-Marc Marino",
+	"Nationality": "France",
+	"Team": "Cannondale"
+},
+{
+	"No.": 58,
+	"Name": "Fabio Sabatini",
+	"Nationality": "Italy",
+	"Team": "Cannondale"
+},
+{
+	"No.": 59,
+	"Name": "Elia Viviani ",
+	"Nationality": "Italy",
+	"Team": "Cannondale"
+},
+{
+	"No.": 61,
+	"Name": "Bauke Mollema",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 62,
+	"Name": "Lars Boom",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 63,
+	"Name": "Stef Clement",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 64,
+	"Name": "Steven Kruijswijk",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 65,
+	"Name": "Tom Leezer",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 66,
+	"Name": "Bram Tankink",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 67,
+	"Name": "Laurens ten Dam",
+	"Nationality": "Netherlands",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 68,
+	"Name": "Sep Vanmarcke",
+	"Nationality": "Belgium",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 69,
+	"Name": "Maarten Wynants",
+	"Nationality": "Belgium",
+	"Team": "Belkin Pro Cycling"
+},
+{
+	"No.": 71,
+	"Name": "Mark Cavendish",
+	"Nationality": "Great Britain",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 72,
+	"Name": "Jan Bakelants",
+	"Nationality": "Belgium",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 73,
+	"Name": "Micha Golas",
+	"Nationality": "Poland",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 74,
+	"Name": "Michal Kwiatkowski ",
+	"Nationality": "Poland",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 75,
+	"Name": "Tony Martin",
+	"Nationality": "Germany",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 76,
+	"Name": "Alessandro Petacchi",
+	"Nationality": "Italy",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 77,
+	"Name": "Mark Renshaw",
+	"Nationality": "Australia",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 78,
+	"Name": "Niki Terpstra",
+	"Nationality": "Netherlands",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 79,
+	"Name": "Matteo Trentin ",
+	"Nationality": "Italy",
+	"Team": "Omega Pharma-Quick Step"
+},
+{
+	"No.": 81,
+	"Name": "Jean-Christophe Praud",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 82,
+	"Name": "Romain Bardet ",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 83,
+	"Name": "Mikal Cherel",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 84,
+	"Name": "Samuel Dumoulin",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 85,
+	"Name": "Ben Gastauer",
+	"Nationality": "Luxembourg",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 86,
+	"Name": "Blel Kadri",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 87,
+	"Name": "Sbastien Minard",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 88,
+	"Name": "Matteo Montaguti",
+	"Nationality": "Italy",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 89,
+	"Name": "Christophe Riblon",
+	"Nationality": "France",
+	"Team": "Ag2r-La Mondiale"
+},
+{
+	"No.": 91,
+	"Name": "Andrew Talansky",
+	"Nationality": "United States",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 92,
+	"Name": "Janier Acevedo",
+	"Nationality": "Colombia",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 93,
+	"Name": "Jack Bauer",
+	"Nationality": "New Zealand",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 94,
+	"Name": "Alex Howes",
+	"Nationality": "United States",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 95,
+	"Name": "Ben King ",
+	"Nationality": "United States",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 96,
+	"Name": "Sebastian Langeveld",
+	"Nationality": "Netherlands",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 97,
+	"Name": "Ramūnas Navardauskas",
+	"Nationality": "Lithuania",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 98,
+	"Name": "Tom-Jelte Slagter ",
+	"Nationality": "Netherlands",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 99,
+	"Name": "Johan Vansummeren",
+	"Nationality": "Belgium",
+	"Team": "Garmin-Sharp"
+},
+{
+	"No.": 101,
+	"Name": "Marcel Kittel",
+	"Nationality": "Germany",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 102,
+	"Name": "Roy Curvers",
+	"Nationality": "Netherlands",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 103,
+	"Name": "Koen de Kort",
+	"Nationality": "Netherlands",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 104,
+	"Name": "John Degenkolb ",
+	"Nationality": "Germany",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 105,
+	"Name": "Dries Devenyns",
+	"Nationality": "Belgium",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 106,
+	"Name": "Tom Dumoulin ",
+	"Nationality": "Netherlands",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 107,
+	"Name": "Ji Cheng",
+	"Nationality": "China",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 108,
+	"Name": "Albert Timmer",
+	"Nationality": "Netherlands",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 109,
+	"Name": "Tom Veelers",
+	"Nationality": "Netherlands",
+	"Team": "Giant-Shimano"
+},
+{
+	"No.": 111,
+	"Name": "Rui Costa",
+	"Nationality": "Portugal",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 112,
+	"Name": "Davide Cimolai ",
+	"Nationality": "Italy",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 113,
+	"Name": "Kristijan ?urasek",
+	"Nationality": "Croatia",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 114,
+	"Name": "Chris Horner",
+	"Nationality": "United States",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 115,
+	"Name": "Sacha Modolo",
+	"Nationality": "Italy",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 116,
+	"Name": "Nelson Oliveira ",
+	"Nationality": "Portugal",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 117,
+	"Name": "Maximiliano Richeze",
+	"Nationality": "Argentina",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 118,
+	"Name": "Jos Serpa",
+	"Nationality": "Colombia",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 119,
+	"Name": "Rafael Valls",
+	"Nationality": "Spain",
+	"Team": "Lampre-Merida"
+},
+{
+	"No.": 121,
+	"Name": "Arnaud Dmare ",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 122,
+	"Name": "William Bonnet",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 123,
+	"Name": "Mickal Delage",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 124,
+	"Name": "Arnold Jeannesson",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 125,
+	"Name": "Mathieu Ladagnous",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 126,
+	"Name": "Cdric Pineau",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 127,
+	"Name": "Thibaut Pinot ",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 128,
+	"Name": "Jrmy Roy",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 129,
+	"Name": "Arthur Vichot",
+	"Nationality": "France",
+	"Team": "FDJ.fr"
+},
+{
+	"No.": 131,
+	"Name": "Jurgen Van den Broeck",
+	"Nationality": "Belgium",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 132,
+	"Name": "Lars Bak",
+	"Nationality": "Denmark",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 133,
+	"Name": "Bart De Clercq",
+	"Nationality": "Belgium",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 134,
+	"Name": "Tony Gallopin",
+	"Nationality": "France",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 135,
+	"Name": "Andr Greipel",
+	"Nationality": "Germany",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 136,
+	"Name": "Adam Hansen",
+	"Nationality": "Australia",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 137,
+	"Name": "Greg Henderson",
+	"Nationality": "New Zealand",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 138,
+	"Name": "Jrgen Roelandts",
+	"Nationality": "Belgium",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 139,
+	"Name": "Marcel Sieberg",
+	"Nationality": "Germany",
+	"Team": "Lotto-Belisol"
+},
+{
+	"No.": 141,
+	"Name": "Tejay van Garderen",
+	"Nationality": "United States",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 142,
+	"Name": "Darwin Atapuma",
+	"Nationality": "Colombia",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 143,
+	"Name": "Marcus Burghardt",
+	"Nationality": "Germany",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 144,
+	"Name": "Amal Moinard",
+	"Nationality": "France",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 145,
+	"Name": "Daniel Oss",
+	"Nationality": "Italy",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 146,
+	"Name": "Michael Schr",
+	"Nationality": "Switzerland",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 147,
+	"Name": "Peter Stetina",
+	"Nationality": "United States",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 148,
+	"Name": "Greg Van Avermaet",
+	"Nationality": "Belgium",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 149,
+	"Name": "Peter Velits",
+	"Nationality": "Slovakia",
+	"Team": "BMC Racing Team"
+},
+{
+	"No.": 151,
+	"Name": "Pierre Rolland",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 152,
+	"Name": "Yukiya Arashiro",
+	"Nationality": "Japan",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 153,
+	"Name": "Bryan Coquard ",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 154,
+	"Name": "Cyril Gautier",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 155,
+	"Name": "Yohann Gne",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 156,
+	"Name": "Alexandre Pichot",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 157,
+	"Name": "Perrig Qumeneur",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 158,
+	"Name": "Kvin Reza",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 159,
+	"Name": "Thomas Voeckler",
+	"Nationality": "France",
+	"Team": "Team Europcar"
+},
+{
+	"No.": 161,
+	"Name": "Frnk Schleck",
+	"Nationality": "Luxembourg",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 162,
+	"Name": "Matthew Busche",
+	"Nationality": "United States",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 163,
+	"Name": "Fabian Cancellara",
+	"Nationality": "Switzerland",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 164,
+	"Name": "Markel Irizar",
+	"Nationality": "Spain",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 165,
+	"Name": "Grgory Rast",
+	"Nationality": "Switzerland",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 166,
+	"Name": "Andy Schleck",
+	"Nationality": "Luxembourg",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 167,
+	"Name": "Danny van Poppel ",
+	"Nationality": "Netherlands",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 168,
+	"Name": "Jens Voigt",
+	"Nationality": "Germany",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 169,
+	"Name": "Haimar Zubeldia",
+	"Nationality": "Spain",
+	"Team": "Trek Factory Racing"
+},
+{
+	"No.": 171,
+	"Name": "Daniel Navarro",
+	"Nationality": "Spain",
+	"Team": "Cofidis"
+},
+{
+	"No.": 172,
+	"Name": "Nicolas Edet",
+	"Nationality": "France",
+	"Team": "Cofidis"
+},
+{
+	"No.": 173,
+	"Name": "Egoitz Garca",
+	"Nationality": "Spain",
+	"Team": "Cofidis"
+},
+{
+	"No.": 174,
+	"Name": "Cyril Lemoine",
+	"Nationality": "France",
+	"Team": "Cofidis"
+},
+{
+	"No.": 175,
+	"Name": "Luis Angel Maté",
+	"Nationality": "Spain",
+	"Team": "Cofidis"
+},
+{
+	"No.": 176,
+	"Name": "Rudy Molard ",
+	"Nationality": "France",
+	"Team": "Cofidis"
+},
+{
+	"No.": 177,
+	"Name": "Adrien Petit ",
+	"Nationality": "France",
+	"Team": "Cofidis"
+},
+{
+	"No.": 178,
+	"Name": "Julien Simon",
+	"Nationality": "France",
+	"Team": "Cofidis"
+},
+{
+	"No.": 179,
+	"Name": "Rein Taarame",
+	"Nationality": "Estonia",
+	"Team": "Cofidis"
+},
+{
+	"No.": 181,
+	"Name": "Simon Gerrans",
+	"Nationality": "Australia",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 182,
+	"Name": "Michael Albasini",
+	"Nationality": "Switzerland",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 183,
+	"Name": "Simon Clarke",
+	"Nationality": "Australia",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 184,
+	"Name": "Luke Durbridge ",
+	"Nationality": "Australia",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 185,
+	"Name": "Mathew Hayman",
+	"Nationality": "Australia",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 186,
+	"Name": "Jens Keukeleire",
+	"Nationality": "Belgium",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 187,
+	"Name": "Christian Meier",
+	"Nationality": "Canada",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 188,
+	"Name": "Svein Tuft",
+	"Nationality": "Canada",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 189,
+	"Name": "Simon Yates ",
+	"Nationality": "Great Britain",
+	"Team": "Orica-GreenEDGE"
+},
+{
+	"No.": 191,
+	"Name": "Mathias Frank",
+	"Nationality": "Switzerland",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 192,
+	"Name": "Sylvain Chavanel",
+	"Nationality": "France",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 193,
+	"Name": "Martin Elmiger",
+	"Nationality": "Switzerland",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 194,
+	"Name": "Heinrich Haussler",
+	"Nationality": "Australia",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 195,
+	"Name": "Reto Hollenstein",
+	"Nationality": "Switzerland",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 196,
+	"Name": "Roger Kluge",
+	"Nationality": "Germany",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 197,
+	"Name": "Jrme Pineau",
+	"Nationality": "France",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 198,
+	"Name": "Sbastien Reichenbach ",
+	"Nationality": "Switzerland",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 199,
+	"Name": "Marcel Wyss",
+	"Nationality": "Switzerland",
+	"Team": "IAM Cycling"
+},
+{
+	"No.": 201,
+	"Name": "Leopold Knig",
+	"Nationality": "Czech Republic",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 202,
+	"Name": "Jan Brta",
+	"Nationality": "Czech Republic",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 203,
+	"Name": "David de la Cruz ",
+	"Nationality": "Spain",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 204,
+	"Name": "Zak Dempster",
+	"Nationality": "Australia",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 205,
+	"Name": "Bartosz Huzarski",
+	"Nationality": "Poland",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 206,
+	"Name": "Tiago Machado",
+	"Nationality": "Portugal",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 207,
+	"Name": "Jos Mendes",
+	"Nationality": "Portugal",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 208,
+	"Name": "Andreas Schillinger",
+	"Nationality": "Germany",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 209,
+	"Name": "Paul Voss",
+	"Nationality": "Germany",
+	"Team": "Team NetApp-Endura"
+},
+{
+	"No.": 211,
+	"Name": "Brice Feillu",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 212,
+	"Name": "Jean-Marc Bideau",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 213,
+	"Name": "Anthony Delaplace ",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 214,
+	"Name": "Romain Feillu",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 215,
+	"Name": "Armindo Fonseca ",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 216,
+	"Name": "Arnaud Grard",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 217,
+	"Name": "Florian Guillou",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 218,
+	"Name": "Benot Jarrier ",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+},
+{
+	"No.": 219,
+	"Name": "Florian Vachon",
+	"Nationality": "France",
+	"Team": "Bretagne-Sch Environnement"
+}]
