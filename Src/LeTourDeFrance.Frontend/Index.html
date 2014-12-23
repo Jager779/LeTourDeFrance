@@ -1,11 +1,18 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <title>Tour de france standings</title>
-</head>
-<body>
-    <h1>Herro!</h1>
-    <script src="~/App/app.js"></script>
-    <script src="~/Scripts/angular.js"></script>
-</body>
+﻿<!DOCTYPE html >
+<html ng-app="ltdf">
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /> 
+        <title>Tour de france standings</title>
+        <style src="/Content/bootstrap.css" type="text/css"></style>
+    </head>
+    <body>
+        <div class="container">
+            <div ltdf-dashboard=""></div>
+        </div>
+        <script src="/Scripts/angular.js"></script>
+        <script src="/Scripts/app.js"></script>
+        <script src="/Scripts/ltdf-dashboard/ltdf-dashboard-controller.js"></script>
+        <script src="/Scripts/ltdf-dashboard/ltdf-dashboard.js"></script>
+    </body>
 </html>
+    
