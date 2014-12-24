@@ -6,5 +6,7 @@ namespace LeTourDeFrance.Backend.Repositories {
     public interface IRidersRepository {
         IEnumerable<Rider> GetAllRiders();
         Rider GetRider(Guid id);
+        void LoadRiders();
+        void LoadStages();
     }
 }

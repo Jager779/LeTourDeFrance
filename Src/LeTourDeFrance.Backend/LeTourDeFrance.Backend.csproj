@@ -86,9 +86,11 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Helpers\CollectionExtensions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\IRidersRepository.cs" />
     <Compile Include="Models\Rider.cs" />
+    <Compile Include="Helpers\JsonDecoder.cs" />
     <Compile Include="Repositories\RidersRidersRepository.cs" />
   </ItemGroup>
   <ItemGroup>
