@@ -2,8 +2,10 @@
 
 namespace LeTourDeFrance.Backend.Models {
     public class Stage {
-        public Guid Id { get; set; }
-        public int StageNr { get; set; }
-        public string Name { get; set; }
+        public int StageNumber { get; set; }
+        public string Course { get; set; }
+        public DateTime Date { get; set; }
+        public string Distance { get; set; }
+        public string Types { get; set; }
     }
 }

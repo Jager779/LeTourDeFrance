@@ -5,7 +5,9 @@ using LeTourDeFrance.Backend.Models;
 namespace LeTourDeFrance.Backend.Repositories {
     public interface IRidersRepository {
         IEnumerable<Rider> GetAllRiders();
-        Rider GetRider(Guid id);
+        IEnumerable<Stage> GetAllStages();
+        Rider GetRider(int id);
+        Stage GetStage(int stageNumber);
         void LoadRiders();
         void LoadStages();
     }

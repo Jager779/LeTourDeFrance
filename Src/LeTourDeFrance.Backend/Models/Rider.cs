@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace LeTourDeFrance.Backend.Models {
+﻿namespace LeTourDeFrance.Backend.Models {
     public class Rider {
-        public Guid Id { get; set; }
+        public int Number { get; set; }
         public string Name { get; set; }
-        public string Country { get; set; }
+        public string Nationality { get; set; }
         public string Team { get; set; }
     }
 }

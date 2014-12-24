@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Web.Http;
 using LeTourDeFrance.Backend.Models;
 using LeTourDeFrance.Backend.Repositories;
@@ -18,8 +17,8 @@ namespace LeTourDeFrance.Backend.Controllers {
         }
 
         [HttpGet]
-        public Rider GetRider(Guid id) {
-            return _ridersRepository.GetRider(id);
+        public Rider GetRider(int number) {
+            return _ridersRepository.GetRider(number);
         }
     }
 }
