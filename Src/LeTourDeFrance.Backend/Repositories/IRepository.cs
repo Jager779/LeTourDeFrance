@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using LeTourDeFrance.Backend.Models;
 
 namespace LeTourDeFrance.Backend.Repositories {
-    public interface IRidersRepository {
+    public interface IRepository {
         IEnumerable<Rider> GetAllRiders();
         IEnumerable<Stage> GetAllStages();
         Rider GetRider(int number);

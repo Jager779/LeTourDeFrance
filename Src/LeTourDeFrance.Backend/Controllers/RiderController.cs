@@ -5,20 +5,20 @@ using LeTourDeFrance.Backend.Repositories;
 
 namespace LeTourDeFrance.Backend.Controllers {
     public class RiderController : ApiController {
-        private readonly IRidersRepository _ridersRepository;
+        private readonly IRepository _repository;
 
-        public RiderController(IRidersRepository ridersRepository) {
-            _ridersRepository = ridersRepository;
+        public RiderController(IRepository repository) {
+            _repository = repository;
         }
 
         [HttpGet]
         public IEnumerable<Rider> GetAllRiders() {
-            return _ridersRepository.GetAllRiders();
+            return _repository.GetAllRiders();
         }
 
         [HttpGet]
         public Rider GetRider(int number) {
-            return _ridersRepository.GetRider(number);
+            return _repository.GetRider(number);
         }
     }
 }

@@ -7,12 +7,12 @@ using LeTourDeFrance.Backend.Helpers;
 using LeTourDeFrance.Backend.Models;
 
 namespace LeTourDeFrance.Backend.Repositories {
-    public class RidersRidersRepository : IRidersRepository {
+    public class Repository : IRepository {
         private readonly string _dbFolderName;
         private readonly List<Rider> _riders;
         private readonly List<Stage> _stages;
 
-        public RidersRidersRepository() {
+        public Repository() {
             _dbFolderName = ConfigurationManager.AppSettings["DbFolder"];
             _riders = new List<Rider>();
             _stages = new List<Stage>();
