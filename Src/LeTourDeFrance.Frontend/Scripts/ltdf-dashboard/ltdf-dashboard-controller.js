@@ -2,10 +2,11 @@
     '$scope', '$http',
     function($scope, $http) {
         $scope.model = {};
-        $scope.model.riders = riders;
-
-        var riders = function() {
-           var dataz =  $http.get('/Index/GetAllRiders', data)
+        $scope.model.riders = ridersFromServer();
+        
+        
+        function ridersFromServer() {
+            $http.get('api/riders')
                 .success(function(data) {
                     debugger;
                     console.log('yay');
@@ -14,7 +15,6 @@
                     debugger;
                     console.log('nay');
                 });
-            return dataz;
-        }
+        };
     }
 ]);

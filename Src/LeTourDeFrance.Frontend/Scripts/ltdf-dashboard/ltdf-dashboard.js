@@ -3,7 +3,7 @@
         return {
             restrict: 'AE',
             controller: 'ltdfDashboardController',
-            templateUrl: '/Scripts/ltdf-dashboard/ltdf-dashboard.html'
+            templateUrl: 'Scripts/ltdf-dashboard/ltdf-dashboard.html'
         };
 
     }
