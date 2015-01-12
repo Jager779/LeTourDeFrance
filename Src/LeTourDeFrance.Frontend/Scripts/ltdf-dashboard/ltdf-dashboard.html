@@ -1,19 +1,19 @@
 ﻿ <div class="row">
-     <h1 class="page-header">Tour de France 2014</h1>     
+     <h1 class="page-header ltdfHeading">Tour de France 2014</h1>     
      <div class="col-xs-3">
          <div class="form-group">
              <label for="stages">Stages</label>
              <ul class="list-group" id="stages" name="stages">
-                 <li class="list-group-item" ng-repeat="stage in model.stages">
-                     <h4>{{stage.Course}}</h4>
-                     <small>Distance: {{stage.Distance}}</small>
-                     <small> Type: {{stage.Types}}</small>
+                 <li class="list-group-item" ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false" ng-repeat="stage in model.stages">
+                         <h4 class="list-group-item-heading active">{{stage.Course}}</h4>
+                         <small>Distance: {{stage.Distance}}</small>
+                         <small> Type: {{stage.Types}}</small>
                  </li>
              </ul>
          </div>
      </div>
      <div class="col-xs-5"><label for="map">Map</label>
-         <img class="img-responsive" id="map" name="map" src="https://placekitten.com/g/500/500"/>
+         <img class="img-responsive" id="map" src="https://placekitten.com/g/500/500"/>
 
      </div>
      <div class="col-xs-4">
