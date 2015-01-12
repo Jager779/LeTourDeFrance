@@ -1,43 +1,43 @@
 [{
 	"Stage": 1,
 	"Date": "5 July",
-	"Course": "Leeds – Harrogate (United Kingdom)",
-	"Distance": "190.5 km (118 mi)",
+	"Course": "Leeds - Harrogate (United Kingdom)",
+	"Distance": "190.5 km (118 mi)",
 	"Types": "Flat stage"
 },
 {
 	"Stage": 2,
 	"Date": "6 July",
-	"Course": "York – Sheffield (United Kingdom)",
-	"Distance": "201 km (125 mi)",
+	"Course": "York - Sheffield (United Kingdom)",
+	"Distance": "201 km (125 mi)",
 	"Types": "Medium-mountain stage"
 },
 {
 	"Stage": 3,
 	"Date": "7 July",
-	"Course": "Cambridge – London (United Kingdom)",
-	"Distance": "155 km (96 mi)",
+	"Course": "Cambridge - London (United Kingdom)",
+	"Distance": "155 km (96 mi)",
 	"Types": "Flat stage"
 },
 {
 	"Stage": 4,
 	"Date": "8 July",
-	"Course": "Le Touquet-Paris-Plage – Lille Metropole",
-	"Distance": "163.5 km (102 mi)",
+	"Course": "Le Touquet-Paris-Plage - Lille Metropole",
+	"Distance": "163.5 km (102 mi)",
 	"Types": "Flat stage"
 },
 {
 	"Stage": 5,
 	"Date": "9 July",
-	"Course": "Ypres (Belgium) – Arenberg Porte du Hainaut",
-	"Distance": "155.5 km (97 mi)",
+	"Course": "Ypres (Belgium) - Arenberg Porte du Hainaut",
+	"Distance": "155.5 km (97 mi)",
 	"Types": "Flat stage with cobblestones"
 },
 {
 	"Stage": 6,
 	"Date": "10 July",
-	"Course": "Arras – Reims",
-	"Distance": "194 km (121 mi)",
+	"Course": "Arras - Reims",
+	"Distance": "194 km (121 mi)",
 	"Types": "Flat stage"
 },
 {

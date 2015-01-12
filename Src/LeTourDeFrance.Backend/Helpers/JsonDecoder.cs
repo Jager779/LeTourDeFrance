@@ -1,39 +1,32 @@
 ﻿using System;
+using System.Collections.Generic;
 using LeTourDeFrance.Backend.Models;
 using Newtonsoft.Json.Linq;
 
 namespace LeTourDeFrance.Backend.Helpers {
     internal class JsonDecoder {
-        public static Rider DecodeRider(string json) {
+        public static List<Rider> DecodeRiders(string json) {
+            List<Rider> riders;
             try {
-                var o = JObject.Parse(json);
-
-                return new Rider {
-                    Name = o["Course"].ToString(),
-                    Nationality = o["Nationality"].ToString(),
-                    Number = Convert.ToInt32(o["No."].ToString()),
-                    Team = o["Team"].ToString()
-                };
+                var jArray = JArray.Parse(json);
+                riders = jArray.ToObject<List<Rider>>();
             }
-            catch (Exception) {
-                throw new ArgumentException("Invalid json");
+            catch (Exception e) {
+                throw new Exception(e.ToString());
             }
+            return riders;
         }
 
-        public static Stage DecodeStage(string json) {
+        public static List<Stage> DecodeStage(string json) {
+            List<Stage> stages;
             try {
-                var o = JObject.Parse(json);
-                return new Stage {
-                    Course = o["Course"].ToString(),
-                    StageNumber = Convert.ToInt32(o["Stage"].ToString()),
-                    Date = Convert.ToDateTime(o["Date"].ToString()),
-                    Distance = o["Distance"].ToString(),
-                    Types = o["Types"].ToString()
-                };
+                var jArray = JArray.Parse(json);
+                stages = jArray.ToObject<List<Stage>>();
             }
-            catch (Exception) {
-                throw new ArgumentException("Invalid json");
+            catch (Exception e) {
+                throw new ArgumentException(e.ToString());
             }
+            return stages;
         }
     }
 }

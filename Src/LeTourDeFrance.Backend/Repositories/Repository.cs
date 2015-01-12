@@ -9,11 +9,11 @@ using LeTourDeFrance.Backend.Models;
 namespace LeTourDeFrance.Backend.Repositories {
     public class Repository : IRepository {
         private readonly string _dbFolderName;
-        private readonly List<Rider> _riders;
-        private readonly List<Stage> _stages;
+        private List<Rider> _riders;
+        private List<Stage> _stages;
 
         public Repository() {
-            _dbFolderName = ConfigurationManager.AppSettings["DbFolder"];
+            _dbFolderName = AppDomain.CurrentDomain.BaseDirectory + "Db";
             _riders = new List<Rider>();
             _stages = new List<Stage>();
             LoadRiders();
@@ -38,14 +38,14 @@ namespace LeTourDeFrance.Backend.Repositories {
 
         public void LoadStages() {
             if (!Directory.Exists(_dbFolderName)) throw new ArgumentException("Db folder doesn't exist");
-            Directory.GetFiles(_dbFolderName, "stages.json").Foreach(
-                fileName => _stages.Add(JsonDecoder.DecodeStage(File.ReadAllText(fileName))));
+            var file = Directory.GetFiles(_dbFolderName, "stages.json").FirstOrDefault();
+            _stages = JsonDecoder.DecodeStage(File.ReadAllText(file));
         }
 
         public void LoadRiders() {
             if (!Directory.Exists(_dbFolderName)) throw new ArgumentException("Db folder doesn't exist");
-            Directory.GetFiles(_dbFolderName, "riders.json").Foreach(
-                fileName => _riders.Add(JsonDecoder.DecodeRider(File.ReadAllText(fileName))));
+            var file = Directory.GetFiles(_dbFolderName, "riders.json").FirstOrDefault();
+            _riders = JsonDecoder.DecodeRiders(File.ReadAllText(file));
         }
     }
 }

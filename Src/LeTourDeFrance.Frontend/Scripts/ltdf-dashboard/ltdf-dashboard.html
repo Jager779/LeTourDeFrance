@@ -4,10 +4,16 @@
          <div class="form-group">
              <label for="riders">Riders</label>
              <ul id="riders" name="riders">
-                 <li ng-repeat="rider in model.riders">{{rider.name}}</li>
+                 <li ng-repeat="rider in model.riders">{{rider.Name}}</li>
+             </ul>
+         </div>
+     </div>
+     <div class="col-xs-offset-4">
+         <div class="form-group">
+             <label for="stages">Stages</label>
+             <ul id="stages" name="stages">
+                 <li ng-repeat="stage in model.stages">{{stage.Course}}</li>
              </ul>
          </div>
      </div>
  </div>
-     <div class="col-xs-4"></div>
-     
