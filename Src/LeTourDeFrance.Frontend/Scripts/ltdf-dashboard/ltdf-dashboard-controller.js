@@ -6,7 +6,7 @@
         
         
         function ridersFromServer() {
-            $http.get('api/riders')
+            $http.get('http://localhost/LeTourDeFrance.Backend/api/riders')
                 .success(function(data) {
                     debugger;
                     console.log('yay');
