@@ -8,5 +8,6 @@
 
     public class TopRider : Rider {
         public int Position { get; set; }
+        public string Time { get; set; }
     }
 }

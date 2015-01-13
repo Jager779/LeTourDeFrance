@@ -14,14 +14,14 @@ namespace LeTourDeFrance.Backend.Tests.Mocks {
             return new List<Stage> {
                 new Stage {
                     StageNumber = 2,
-                    Date = Convert.ToDateTime("6 July 2014"),
+                    Date = "6 July 2014",
                     Course = "York – Sheffield (United Kingdom)",
                     Distance = "201 km (125 mi)",
                     Types = "Medium-mountain stage"
                 },
                 new Stage {
                     StageNumber = 6,
-                    Date = Convert.ToDateTime("10 July 2014"),
+                    Date = "10 July 2014",
                     Course = "Arras – Reims",
                     Distance = "194 km (121 mi)",
                     Types = "Flat stage"
