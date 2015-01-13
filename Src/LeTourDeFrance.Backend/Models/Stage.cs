@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace LeTourDeFrance.Backend.Models {
     public class Stage {
@@ -7,5 +8,6 @@ namespace LeTourDeFrance.Backend.Models {
         public DateTime Date { get; set; }
         public string Distance { get; set; }
         public string Types { get; set; }
+        public List<TopRider> TopRiders { get; set; } 
     }
 }

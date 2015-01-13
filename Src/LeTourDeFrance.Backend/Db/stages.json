@@ -1,147 +1,208 @@
 [{
-	"Stage": 1,
+	"StageNumber": 1,
 	"Date": "5 July",
 	"Course": "Leeds - Harrogate (United Kingdom)",
 	"Distance": "190.5 km (118 mi)",
-	"Types": "Flat stage"
+	"Types": "Flat stage",
+	"TopRiders": [{
+		"Position": 1,
+		"Name": "Marcel Kittel(GER)",
+		"Team": "Giant-Shimano",
+		"Time": "4h 44' 07"
+		},
+		{
+		"Position":2,
+		"Name":"Peter Sagan(SVK)",
+		"Team":"Cannondale",
+		"Time":"s.t."
+  },
+  {
+    "Position":3,
+    "Name":"Ramunas Navardauskas(LTU)",
+    "Team":"Garmin-Sharp",
+    "Time":"s.t."
+  },
+  {
+    "Position":4,
+    "Name":"Bryan Coquard(FRA)",
+    "Team":"Team Europcar",
+    "Time":"s.t."
+  },
+  {
+    "Position":5,
+    "Name":"Michael Rogers(AUS)",
+    "Team":"Tinkoff-Saxo",
+    "Time":"s.t."
+  },
+  {
+    "Position":6,
+    "Name":"Chris Froome(GBR)",
+    "Team":"Team Sky",
+    "Time":"s.t."
+  },
+  {
+    "Position":7,
+    "Name":"Alexander Kristoff(NOR)",
+    "Team":"Team Katusha",
+    "Time":"s.t."
+  },
+  {
+    "Position":8,
+    "Name":"Sep Vanmarcke(BEL)",
+    "Team":"Belkin Pro Cycling",
+    "Time":"s.t."
+  },
+  {
+    "Position":9,
+    "Name":"José Joaquín Rojas(ESP)",
+    "Team":"Movistar Team",
+    "Time":"s.t."
+  },
+  {
+    "Position":10,
+    "Name":"Michael Albasini(SUI)",
+    "Team":"Orica-GreenEDGE",
+    "Time":"s"
+  }
+]
 },
 {
-	"Stage": 2,
-	"Date": "6 July",
-	"Course": "York - Sheffield (United Kingdom)",
-	"Distance": "201 km (125 mi)",
-	"Types": "Medium-mountain stage"
+	"StageNumber": 2,
+	"Date": "6July",
+	"Course": "York-Sheffield(UnitedKingdom)",
+	"Distance": "201km(125mi)",
+	"Types": "Medium-mountainstage"
 },
 {
-	"Stage": 3,
-	"Date": "7 July",
-	"Course": "Cambridge - London (United Kingdom)",
-	"Distance": "155 km (96 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 3,
+	"Date": "7July",
+	"Course": "Cambridge-London(UnitedKingdom)",
+	"Distance": "155km(96mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 4,
-	"Date": "8 July",
-	"Course": "Le Touquet-Paris-Plage – Lille Metropole",
-	"Distance": "163.5 km (102 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 4,
+	"Date": "8July",
+	"Course": "LeTouquet-Paris-Plage–LilleMetropole",
+	"Distance": "163.5km(102mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 5,
-	"Date": "9 July",
-	"Course": "Ypres (Belgium) - Arenberg Porte du Hainaut",
-	"Distance": "155.5 km (97 mi)",
-	"Types": "Flat stage with cobblestones"
+	"StageNumber": 5,
+	"Date": "9July",
+	"Course": "Ypres(Belgium)-ArenbergPorteduHainaut",
+	"Distance": "155.5km(97mi)",
+	"Types": "Flatstagewithcobblestones"
 },
 {
-	"Stage": 6,
-	"Date": "10 July",
-	"Course": "Arras - Reims",
-	"Distance": "194 km (121 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 6,
+	"Date": "10July",
+	"Course": "Arras-Reims",
+	"Distance": "194km(121mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 7,
-	"Date": "11 July",
-	"Course": "Épernay – Nancy",
-	"Distance": "234.5 km (146 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 7,
+	"Date": "11July",
+	"Course": "Épernay–Nancy",
+	"Distance": "234.5km(146mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 8,
-	"Date": "12 July",
-	"Course": "Tomblaine – Gérardmer La Mauselaine",
-	"Distance": "161 km (100 mi)",
-	"Types": "Medium-mountain stage"
+	"StageNumber": 8,
+	"Date": "12July",
+	"Course": "Tomblaine–GérardmerLaMauselaine",
+	"Distance": "161km(100mi)",
+	"Types": "Medium-mountainstage"
 },
 {
-	"Stage": 9,
-	"Date": "13 July",
-	"Course": "Gérardmer – Mulhouse",
-	"Distance": "170 km (106 mi)",
-	"Types": "Medium-mountain stage"
+	"StageNumber": 9,
+	"Date": "13July",
+	"Course": "Gérardmer–Mulhouse",
+	"Distance": "170km(106mi)",
+	"Types": "Medium-mountainstage"
 },
 {
-	"Stage": 10,
-	"Date": "14 July",
-	"Course": "Mulhouse – La Planche des Belles Filles",
-	"Distance": "161.5 km (100 mi)",
-	"Types": "Mountain stage"
+	"StageNumber": 10,
+	"Date": "14July",
+	"Course": "Mulhouse–LaPlanchedesBellesFilles",
+	"Distance": "161.5km(100mi)",
+	"Types": "Mountainstage"
 },
 {
-	"Stage": 11,
-	"Date": "16 July",
-	"Course": "Besançon – Oyonnax",
-	"Distance": "187.5 km (117 mi)",
-	"Types": "Medium-mountain stage"
+	"StageNumber": 11,
+	"Date": "16July",
+	"Course": "Besançon–Oyonnax",
+	"Distance": "187.5km(117mi)",
+	"Types": "Medium-mountainstage"
 },
 {
-	"Stage": 12,
-	"Date": "17 July",
-	"Course": "Bourg-en-Bresse – Saint-Étienne",
-	"Distance": "185.5 km (115 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 12,
+	"Date": "17July",
+	"Course": "Bourg-en-Bresse–Saint-Étienne",
+	"Distance": "185.5km(115mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 13,
-	"Date": "18 July",
-	"Course": "Saint-Étienne – Chamrousse",
-	"Distance": "197.5 km (123 mi)",
-	"Types": "Mountain stage"
+	"StageNumber": 13,
+	"Date": "18July",
+	"Course": "Saint-Étienne–Chamrousse",
+	"Distance": "197.5km(123mi)",
+	"Types": "Mountainstage"
 },
 {
-	"Stage": 14,
-	"Date": "19 July",
-	"Course": "Grenoble - Risoul",
-	"Distance": "177 km (110 mi)",
-	"Types": "Mountain stage"
+	"StageNumber": 14,
+	"Date": "19July",
+	"Course": "Grenoble-Risoul",
+	"Distance": "177km(110mi)",
+	"Types": "Mountainstage"
 },
 {
-	"Stage": 15,
-	"Date": "20 July",
-	"Course": "Tallard – Nîmes",
-	"Distance": "222 km (138 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 15,
+	"Date": "20July",
+	"Course": "Tallard–Nîmes",
+	"Distance": "222km(138mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 16,
-	"Date": "22 July",
-	"Course": "Carcassonne – Bagnères-de-Luchon",
-	"Distance": "237.5 km (148 mi)",
-	"Types": "Mountain stage"
+	"StageNumber": 16,
+	"Date": "22July",
+	"Course": "Carcassonne–Bagnères-de-Luchon",
+	"Distance": "237.5km(148mi)",
+	"Types": "Mountainstage"
 },
 {
-	"Stage": 17,
-	"Date": "23 July",
-	"Course": "Saint-Gaudens – Saint-Lary-Soulan Pla d’Adet",
-	"Distance": "124.5 km (77 mi)",
-	"Types": "Mountain stage"
+	"StageNumber": 17,
+	"Date": "23July",
+	"Course": "Saint-Gaudens–Saint-Lary-SoulanPlad’Adet",
+	"Distance": "124.5km(77mi)",
+	"Types": "Mountainstage"
 },
 {
-	"Stage": 18,
-	"Date": "24 July",
-	"Course": "Pau - Hautacam",
-	"Distance": "145.5 km (90 mi)",
-	"Types": "Mountain stage"
+	"StageNumber": 18,
+	"Date": "24July",
+	"Course": "Pau-Hautacam",
+	"Distance": "145.5km(90mi)",
+	"Types": "Mountainstage"
 },
 {
-	"Stage": 19,
-	"Date": "25 July",
-	"Course": "Maubourguet Pays du Val d’Adour – Bergerac",
-	"Distance": "208.5 km (130 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 19,
+	"Date": "25July",
+	"Course": "MaubourguetPaysduVald’Adour–Bergerac",
+	"Distance": "208.5km(130mi)",
+	"Types": "Flatstage"
 },
 {
-	"Stage": 20,
-	"Date": "26 July",
-	"Course": "Bergerac – Périgueux",
-	"Distance": "54 km (34 mi)",
-	"Types": "Individual time trial"
+	"StageNumber": 20,
+	"Date": "26July",
+	"Course": "Bergerac–Périgueux",
+	"Distance": "54km(34mi)",
+	"Types": "Individualtimetrial"
 },
 {
-	"Stage": 21,
-	"Date": "27 July",
-	"Course": "Évry – Paris Champs-Élysées",
-	"Distance": "137.5 km (85 mi)",
-	"Types": "Flat stage"
+	"StageNumber": 21,
+	"Date": "27July",
+	"Course": "Évry–ParisChamps-Élysées",
+	"Distance": "137.5km(85mi)",
+	"Types": "Flatstage"
 }]

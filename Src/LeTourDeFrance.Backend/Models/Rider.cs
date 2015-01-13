@@ -5,4 +5,8 @@
         public string Nationality { get; set; }
         public string Team { get; set; }
     }
+
+    public class TopRider : Rider {
+        public int Position { get; set; }
+    }
 }

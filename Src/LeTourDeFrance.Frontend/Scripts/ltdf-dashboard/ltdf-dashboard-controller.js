@@ -2,18 +2,18 @@
     '$scope', '$http',
     function($scope, $http) {
         $scope.model = {};
-        
-        
+
+
         (function ridersFromServer() {
-             $http.get('http://localhost/LeTourDeFrance.Backend/api/riders')
-                .then(function (data) {
-                     $scope.model.riders = data.data;
-                   console.log('yay');
-                   console.log(data);
-                },
-                function(data) {
-                    console.log('nay');
-                }
+            $http.get('http://localhost/LeTourDeFrance.Backend/api/riders')
+                .then(function(data) {
+                        $scope.model.riders = data.data;
+                        console.log('yay');
+                        console.log(data);
+                    },
+                    function(data) {
+                        console.log('nay');
+                    }
                 );
         }());
 
@@ -28,5 +28,10 @@
                         console.log('nay');
                     });
         }());
+
+        $scope.loadImageOnClick = function(stage) {
+            console.log("clicked");
+            $scope.imagePath = 'http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-' + stage + '.jpg';
+        };
     }
 ]);

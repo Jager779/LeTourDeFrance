@@ -1,25 +1,28 @@
-﻿ <div class="row">
-     <h1 class="page-header ltdfHeading">Tour de France 2014</h1>     
-     <div class="col-xs-3">
-         <div class="form-group">
-             <label for="stages">Stages</label>
-             <ul class="list-group" id="stages" name="stages">
-                 <li class="list-group-item" ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false" ng-repeat="stage in model.stages">
-                         <h4 class="list-group-item-heading active">{{stage.Course}}</h4>
-                         <small>Distance: {{stage.Distance}}</small>
-                         <small> Type: {{stage.Types}}</small>
-                 </li>
-             </ul>
-         </div>
-     </div>
-     <div class="col-xs-5"><label for="map">Map</label>
-         <img class="img-responsive" id="map" src="https://placekitten.com/g/500/500"/>
-
-     </div>
-     <div class="col-xs-4">
-         <label for="top5">Top 5 Racers</label>
-         <ul class="list-group" id="top5" name="top5">
-             <li class="list-group-item" ng-repeat="rider in model.riders|limitTo:5">{{rider.Name}}</li>
-         </ul>
-     </div>
- </div>
+﻿<div class="row">
+    <h1 class="page-header ltdfHeading">Tour de France 2014</h1>     
+    <div class="col-xs-3">
+        <div class="form-group">
+            <label for="stages">Stages</label>
+            <ul class="list-group" id="stages" name="stages">
+                <li class="list-group-item" ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false" ng-repeat="stage in model.stages">
+                    <a href="" ng-click="loadImageOnClick(stage.StageNumber)">
+                        <h4 class="list-group-item-heading active">{{stage.Course}}</h4>
+                        <small>Distance: {{stage.Distance}}</small>
+                        <small> Type: {{stage.Types}}</small>
+                    </a>   
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-xs-5"><label for="map">Map</label>
+        <img src="http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-1.jpg" ng-src="{{ imagePath }}" class="img-responsive" id="map"/>
+    </div>
+    <div class="col-xs-4">
+        <label for="top5">Top 5 Racers</label>
+        <ul class="list-group" id="top5" name="top5">
+            <li class="list-group-item" ng-repeat="rider in model.stages|filter:{{selectedStage}}" ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false">
+                <h4>{{rider.Name}}</h4>
+            </li>
+        </ul>
+    </div>
+</div>
