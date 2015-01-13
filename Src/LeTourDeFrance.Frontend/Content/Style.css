@@ -1,4 +1,10 @@
 ﻿.ltdfHeading {
     font-style: italic;
     color: #fabb00;
+    font-family: ManoNegra;
+}
+
+@font-face {
+    font-family: ManoNegra;
+    src: url(~/fonts/WCManoNegraBta.ttf)
 }
