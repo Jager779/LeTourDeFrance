@@ -68,24 +68,210 @@
 },
 {
 	"StageNumber": 2,
-	"Date": "6July",
+	"Date": "6 July",
 	"Course": "York-Sheffield(UnitedKingdom)",
 	"Distance": "201km(125mi)",
-	"Types": "Medium-mountainstage"
+	"Types": "Medium-mountainstage",
+	"TopRiders" : [
+  {
+    "Position":1,
+    "Name":"Vincenzo Nibali(ITA)",
+    "Team":"Astana",
+    "Time":"5h 08' 36"
+  },
+  {
+    "Position":2,
+    "Name":"Greg Van Avermaet(BEL)",
+    "Team":"BMC Racing Team",
+    "Time":"+ 2"
+  },
+  {
+    "Position":3,
+    "Name":"Micha? Kwiatkowski(POL)",
+    "Team":"Omega Pharma-Quick Step",
+    "Time":"+ 2"
+  },
+  {
+    "Position":4,
+    "Name":"Peter Sagan(SVK)",
+    "Team":"Cannondale",
+    "Time":"+ 2"
+  },
+  {
+    "Position":5,
+    "Name":"Tony Gallopin(FRA)",
+    "Team":"Lotto-Belisol",
+    "Time":"+ 2"
+  },
+  {
+    "Position":6,
+    "Name":"Michael Albasini(SUI)",
+    "Team":"Orica-GreenEDGE",
+    "Time":"+ 2"
+  },
+  {
+    "Position":7,
+    "Name":"Andrew Talansky(USA)",
+    "Team":"Garmin-Sharp",
+    "Time":"+ 2"
+  },
+  {
+    "Position":8,
+    "Name":"Bauke Mollema(NED)",
+    "Team":"Belkin Pro Cycling",
+    "Time":"+ 2"
+  },
+  {
+    "Position":9,
+    "Name":"Tejay van Garderen(USA)",
+    "Team":"BMC Racing Team",
+    "Time":"+ 2"
+  },
+  {
+    "Position":10,
+    "Name":"Romain Bardet(FRA)",
+    "Team":"Ag2r-La Mondiale",
+    "Time":"+ 2"
+  }
+]
 },
 {
 	"StageNumber": 3,
-	"Date": "7July",
+	"Date": "7 July",
 	"Course": "Cambridge-London(UnitedKingdom)",
 	"Distance": "155km(96mi)",
-	"Types": "Flatstage"
+	"Types": "Flatstage",
+	"TopRiders" : [
+  {
+    "Position":1,
+    "Name":"Marcel Kittel(GER)",
+    "Team":"Giant-Shimano",
+    "Time":"3h 38' 30"
+  },
+  {
+    "Position":2,
+    "Name":"Peter Sagan(SVK)",
+    "Team":"Cannondale",
+    "Time":"s.t."
+  },
+  {
+    "Position":3,
+    "Name":"Mark Renshaw(AUS)",
+    "Team":"Omega Pharma-Quick Step",
+    "Time":"s.t."
+  },
+  {
+    "Position":4,
+    "Name":"Bryan Coquard(FRA)",
+    "Team":"Team Europcar",
+    "Time":"s.t."
+  },
+  {
+    "Position":5,
+    "Name":"Alexander Kristoff(NOR)",
+    "Team":"Team Katusha",
+    "Time":"s.t."
+  },
+  {
+    "Position":6,
+    "Name":"Danny van Poppel(NED)",
+    "Team":"Trek Factory Racing",
+    "Time":"s.t."
+  },
+  {
+    "Position":7,
+    "Name":"Heinrich Haussler(AUS)",
+    "Team":"IAM Cycling",
+    "Time":"s.t."
+  },
+  {
+    "Position":8,
+    "Name":"José Joaquín Rojas (ESP)",
+    "Team":"Movistar Team",
+    "Time":"s.t."
+  },
+  {
+    "Position":9,
+    "Name":"Romain Feillu(FRA)",
+    "Team":"Bretagne-Sch Environnement",
+    "Time":"s.t."
+  },
+  {
+    "Position":10,
+    "Name":"Daniel Oss(ITA)",
+    "Team":"BMC Racing Team",
+    "Time":"s.t."
+  }
+]
 },
 {
 	"StageNumber": 4,
-	"Date": "8July",
+	"Date": "8 July",
 	"Course": "LeTouquet-Paris-Plage–LilleMetropole",
 	"Distance": "163.5km(102mi)",
-	"Types": "Flatstage"
+	"Types": "Flatstage",
+	"TopRiders": [
+  {
+    "Position":1,
+    "Name":"Marcel Kittel(GER)",
+    "Team":"Giant-Shimano",
+    "Time":"3h 36' 39"
+  },
+  {
+    "Position":2,
+    "Name":"Alexander Kristoff(NOR)",
+    "Team":"Team Katusha",
+    "Time":"s.t."
+  },
+  {
+    "Position":3,
+    "Name":"Arnaud Démare (FRA)",
+    "Team":"FDJ.fr",
+    "Time":"s.t."
+  },
+  {
+    "Position":4,
+    "Name":"Peter Sagan(SVK)",
+    "Team":"Cannondale",
+    "Time":"s.t."
+  },
+  {
+    "Position":5,
+    "Name":"Bryan Coquard(FRA)",
+    "Team":"Team Europcar",
+    "Time":"s.t."
+  },
+  {
+    "Position":6,
+    "Name":"André Greipel (GER)",
+    "Team":"Lotto-Belisol",
+    "Time":"s.t."
+  },
+  {
+    "Position":7,
+    "Name":"Mark Renshaw(AUS)",
+    "Team":"Omega Pharma-Quick Step",
+    "Time":"s.t."
+  },
+  {
+    "Position":8,
+    "Name":"Danny van Poppel(NED)",
+    "Team":"Trek Factory Racing",
+    "Time":"s.t."
+  },
+  {
+    "Position":9,
+    "Name":"Davide Cimolai(ITA)",
+    "Team":"Lampre-Merida",
+    "Time":"s.t."
+  },
+  {
+    "Position":10,
+    "Name":"Daniel Oss(ITA)",
+    "Team":"BMC Racing Team",
+    "Time":"s.t."
+  }
+]
 },
 {
 	"StageNumber": 5,
