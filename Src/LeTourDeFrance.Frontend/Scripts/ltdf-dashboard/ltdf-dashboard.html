@@ -10,7 +10,8 @@
                     ng-mouseleave="hover = false"
                      ng-repeat="stage in model.stages">
                     <a href="" ng-click="loadImageOnClick(stage.StageNumber)">
-                        <h4 class="list-group-item-heading active">{{stage.Course}}</h4>
+                        <h4 class="list-group-item-heading active">Stage: {{$index+1}}</h4>
+                        <h5>{{stage.Course}}</h5>
                         <small>Distance: {{stage.Distance}}</small>
                         <small> Type: {{stage.Types}}</small>
                     </a>   
@@ -19,13 +20,13 @@
         </div>
     </div>
     <div class="col-xs-5"><label for="map">Map</label>
-        <img src="http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-1.jpg" ng-src="{{ imagePath }}" class="img-responsive" id="map"/>
+        <img ng-src="{{ model.imagePath }}" class="img-responsive" id="map"/>
     </div>
     <div class="col-xs-4">
         <label for="top5">Top 5 Racers</label>
         <ul class="list-group" id="top5" name="top5">
             <li class="list-group-item" ng-repeat="rider in model.selectedStage.TopRiders | limitTo:5" ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false">
-                <h4>{{rider.Name}}</h4>
+                <h4> {{$index + 1}}. {{rider.Name}}</h4>
                 <small>Team: {{rider.Team}}</small>
                 <small> Time: {{rider.Time}}</small>
             </li>

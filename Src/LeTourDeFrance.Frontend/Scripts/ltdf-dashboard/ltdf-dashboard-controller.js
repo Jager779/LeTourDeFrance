@@ -2,6 +2,8 @@
     '$scope', '$http',
     function($scope, $http) {
         $scope.model = {};
+        $scope.model.imagePath = "http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-1.jpg";
+        
 
 
         (function ridersFromServer() {
@@ -27,11 +29,12 @@
                     function(data) {
                         console.log('nay');
                     });
+            
         }());
 
         $scope.loadImageOnClick = function(stage) {
             console.log("clicked stage: " + stage);
-            $scope.imagePath = 'http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-' + stage + '.jpg';
+            $scope.model.imagePath = 'http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-' + stage + '.jpg';
             $scope.model.selectedStage = $scope.model.stages[stage -1];
             console.log($scope.selectedStage);
         };
