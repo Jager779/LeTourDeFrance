@@ -69,7 +69,7 @@
 {
 	"StageNumber": 2,
 	"Date": "6 July",
-	"Course": "York-Sheffield(UnitedKingdom)",
+	"Course": "York-Sheffield (United Kingdom)",
 	"Distance": "201km(125mi)",
 	"Types": "Medium-mountainstage",
 	"TopRiders" : [
@@ -138,9 +138,9 @@
 {
 	"StageNumber": 3,
 	"Date": "7 July",
-	"Course": "Cambridge-London(UnitedKingdom)",
+	"Course": "Cambridge-London (United Kingdom)",
 	"Distance": "155km(96mi)",
-	"Types": "Flatstage",
+	"Types": "Flat stage",
 	"TopRiders" : [
   {
     "Position":1,
@@ -207,9 +207,9 @@
 {
 	"StageNumber": 4,
 	"Date": "8 July",
-	"Course": "LeTouquet-Paris-Plage–LilleMetropole",
+	"Course": "Le Touquet-Paris-Plage – Lille Metropole",
 	"Distance": "163.5km(102mi)",
-	"Types": "Flatstage",
+	"Types": "Flat stage",
 	"TopRiders": [
   {
     "Position":1,
@@ -275,120 +275,198 @@
 },
 {
 	"StageNumber": 5,
-	"Date": "9July",
-	"Course": "Ypres(Belgium)-ArenbergPorteduHainaut",
+	"Date": "9 July",
+	"Course": "Ypres (Belgium) – Arenberg Porte du Hainaut",
 	"Distance": "155.5km(97mi)",
-	"Types": "Flatstagewithcobblestones"
+	"Types": "Flat stage with cobble stones",
+	"TopRiders":[
+  {
+    "Position":1,
+    "Name":"Lars Boom (NED)",
+    "Team":"Belkin Pro Cycling",
+    "Time":"3h 18' 35"
+  },
+  {
+    "Position":2,
+    "Name":"Jakob Fuglsang (DEN)",
+    "Team":"Astana",
+    "Time":"+ 19"
+  },
+  {
+    "Position":3,
+    "Name":"Vincenzo Nibali (ITA)",
+    "Team":"Astana",
+    "Time":"+ 19"
+  },
+  {
+    "Position":4,
+    "Name":"Peter Sagan (SVK)",
+    "Team":"Cannondale",
+    "Time":"+ 1' 01"
+  },
+  {
+    "Position":5,
+    "Name":"Fabian Cancellara (SUI)",
+    "Team":"Trek Factory Racing",
+    "Time":"+ 1' 01"
+  },
+  {
+    "Position":6,
+    "Name":"Jens Keukeleire (BEL)",
+    "Team":"Orica-GreenEDGE",
+    "Time":"+ 1' 01"
+  },
+  {
+    "Position":7,
+    "Name":"Michał Kwiatkowski (POL)",
+    "Team":"Omega Pharma-Quick Step",
+    "Time":"+ 1' 07"
+  },
+  {
+    "Position":8,
+    "Name":"Lieuwe Westra (NED)",
+    "Team":"Astana",
+    "Time":"+ 1' 09"
+  },
+  {
+    "Position":9,
+    "Name":"Matteo Trentin (ITA)",
+    "Team":"Omega Pharma-Quick Step",
+    "Time":"+ 1' 21"
+  },
+  {
+    "Position":10,
+    "Name":"Cyril Lemoine (FRA)",
+    "Team":"Cofidis",
+    "Time":"+ 1' 45"
+  }
+]
 },
 {
 	"StageNumber": 6,
-	"Date": "10July",
+	"Date": "10 July",
 	"Course": "Arras-Reims",
 	"Distance": "194km(121mi)",
-	"Types": "Flatstage"
+	"Types": "Flat stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 7,
-	"Date": "11July",
+	"Date": "11 July",
 	"Course": "Épernay–Nancy",
 	"Distance": "234.5km(146mi)",
-	"Types": "Flatstage"
+	"Types": "Flat stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 8,
 	"Date": "12July",
 	"Course": "Tomblaine–GérardmerLaMauselaine",
 	"Distance": "161km(100mi)",
-	"Types": "Medium-mountainstage"
+	"Types": "Medium-mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 9,
 	"Date": "13July",
 	"Course": "Gérardmer–Mulhouse",
 	"Distance": "170km(106mi)",
-	"Types": "Medium-mountainstage"
+	"Types": "Medium-mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 10,
 	"Date": "14July",
 	"Course": "Mulhouse–LaPlanchedesBellesFilles",
 	"Distance": "161.5km(100mi)",
-	"Types": "Mountainstage"
+	"Types": "Mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 11,
 	"Date": "16July",
 	"Course": "Besançon–Oyonnax",
 	"Distance": "187.5km(117mi)",
-	"Types": "Medium-mountainstage"
+	"Types": "Medium-mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 12,
 	"Date": "17July",
 	"Course": "Bourg-en-Bresse–Saint-Étienne",
 	"Distance": "185.5km(115mi)",
-	"Types": "Flatstage"
+	"Types": "Flat stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 13,
 	"Date": "18July",
 	"Course": "Saint-Étienne–Chamrousse",
 	"Distance": "197.5km(123mi)",
-	"Types": "Mountainstage"
+	"Types": "Mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 14,
 	"Date": "19July",
 	"Course": "Grenoble-Risoul",
 	"Distance": "177km(110mi)",
-	"Types": "Mountainstage"
+	"Types": "Mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 15,
 	"Date": "20July",
 	"Course": "Tallard–Nîmes",
 	"Distance": "222km(138mi)",
-	"Types": "Flatstage"
+	"Types": "Flat stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 16,
 	"Date": "22July",
 	"Course": "Carcassonne–Bagnères-de-Luchon",
 	"Distance": "237.5km(148mi)",
-	"Types": "Mountainstage"
+	"Types": "Mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 17,
 	"Date": "23July",
 	"Course": "Saint-Gaudens–Saint-Lary-SoulanPlad’Adet",
 	"Distance": "124.5km(77mi)",
-	"Types": "Mountainstage"
+	"Types": "Mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 18,
 	"Date": "24July",
 	"Course": "Pau-Hautacam",
 	"Distance": "145.5km(90mi)",
-	"Types": "Mountainstage"
+	"Types": "Mountain stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 19,
 	"Date": "25July",
-	"Course": "MaubourguetPaysduVald’Adour–Bergerac",
+	"Course": "Maubourguet Pays du Val d’Adour – Bergerac",
 	"Distance": "208.5km(130mi)",
-	"Types": "Flatstage"
+	"Types": "Flat stage",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 20,
 	"Date": "26July",
 	"Course": "Bergerac–Périgueux",
 	"Distance": "54km(34mi)",
-	"Types": "Individualtimetrial"
+	"Types": "Individual time trial",
+	"TopRiders":[]
 },
 {
 	"StageNumber": 21,
 	"Date": "27July",
 	"Course": "Évry–ParisChamps-Élysées",
 	"Distance": "137.5km(85mi)",
-	"Types": "Flatstage"
+	"Types": "Flat stage",
+	"TopRiders":[]
 }]
