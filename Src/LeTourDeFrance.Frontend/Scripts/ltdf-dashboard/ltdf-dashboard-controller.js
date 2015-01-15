@@ -25,7 +25,8 @@
                         $scope.model.stages = data.data;
                         console.log('yay');
                         console.log(data);
-                    },
+                    $scope.model.selectedStage = $scope.model.stages[0];
+                },
                     function(data) {
                         console.log('nay');
                     });
@@ -36,7 +37,7 @@
             console.log("clicked stage: " + stage);
             $scope.model.imagePath = 'http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-' + stage + '.jpg';
             $scope.model.selectedStage = $scope.model.stages[stage -1];
-            console.log($scope.selectedStage);
+            console.log($scope.model.selectedStage);
         };
     }
 ]);
