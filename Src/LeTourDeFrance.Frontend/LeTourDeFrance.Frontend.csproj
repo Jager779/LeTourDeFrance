@@ -109,6 +109,7 @@
     <Content Include="Scripts\jquery-1.9.0.js" />
     <Content Include="Scripts\jquery-1.9.0.min.js" />
     <Content Include="Scripts\ltdf-dashboard\ltdf-dashboard-controller.js" />
+    <Content Include="Scripts\ltdf-dashboard\ltdf-dashboard-service.js" />
     <Content Include="Scripts\ltdf-dashboard\ltdf-dashboard-style.css" />
     <Content Include="Scripts\ltdf-dashboard\ltdf-dashboard.html" />
     <Content Include="Scripts\ltdf-dashboard\ltdf-dashboard.js" />

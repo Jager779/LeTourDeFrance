@@ -5,12 +5,12 @@
             <label for="stages">Stages</label>
             <div class="list-group" id="stages" name="stages">
                 <a href="" class="list-group-item" ng-click="loadImageOnClick(stage.StageNumber)"
-                    ng-class="{active: stage.StageNumber === model.selectedStage.StageNumber}"
-                     ng-repeat="stage in model.stages">
-                        <h4 class="list-group-item-heading active">Stage: {{$index+1}}</h4>
-                        <h5>{{stage.Course}}</h5>
-                        <small>Distance: {{stage.Distance}}</small>
-                        <small> Type: {{stage.Types}}</small>
+                   ng-class="{active: stage.StageNumber === model.selectedStage.StageNumber}"
+                   ng-repeat="stage in model.stages">
+                    <h4 class="list-group-item-heading active">Stage: {{$index+1}}</h4>
+                    <h5>{{stage.Course}}</h5>
+                    <small>Distance: {{stage.Distance}}</small>
+                    <small> Type: {{stage.Types}}</small>
                 </a>
             </div>
         </div>
@@ -21,7 +21,8 @@
     <div class="col-xs-4">
         <label for="top5">Top 5 Racers</label>
         <ul class="list-group" id="top5" name="top5">
-            <li class="list-group-item" ng-repeat="rider in model.selectedStage.TopRiders | limitTo:5" ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false">
+            <li class="list-group-item" ng-repeat="rider in model.selectedStage.TopRiders | limitTo:5"
+                ng-class="{active: hover}" ng-mouseenter="hover = true" ng-mouseleave="hover = false">
                 <h4> {{$index + 1}}. {{rider.Name}}</h4>
                 <small>Team: {{rider.Team}}</small>
                 <small> Time: {{rider.Time}}</small>
