@@ -29,6 +29,13 @@
                 );
         })();
 
+        $scope.model.nextPage = function(index) {
+            for (var i = 0; i < $scope.model.stages.length; i++) {
+                $scope.model.stagesToShow = $scope.model.stages.splice(index, 4);
+            }
+        };
+
+
         $scope.loadImageOnClick = function(stage) {
             console.log("clicked stage: " + stage);
             $scope.model.imagePath = 'http://localhost/LeTourDeFrance.Frontend/Content/Images/stage-' + stage + '.jpg';

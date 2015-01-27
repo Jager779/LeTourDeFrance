@@ -6,13 +6,20 @@
             <div class="list-group" id="stages" name="stages">
                 <a href="" class="list-group-item" ng-click="loadImageOnClick(stage.StageNumber)"
                    ng-class="{active: stage.StageNumber === model.selectedStage.StageNumber}"
-                   ng-repeat="stage in model.stages">
+                   ng-repeat="stage in model.stages | limitTo:4">
                     <h4 class="list-group-item-heading active">Stage: {{$index+1}}</h4>
                     <h5>{{stage.Course}}</h5>
                     <small>Distance: {{stage.Distance}}</small>
                     <small> Type: {{stage.Types}}</small>
                 </a>
             </div>
+            <ul class="pagination pagination-sm">
+                <li><a href="#">&laquo;</a></li>
+                <li ng-repeat="stage in model.stages | limitTo: 5">
+                    <a href="#">{{$index+1}}</a>
+                </li>
+                <li><a href="#">&raquo;</a></li>
+            </ul>
         </div>
     </div>
     <div class="col-xs-5"><label for="map">Map</label>
