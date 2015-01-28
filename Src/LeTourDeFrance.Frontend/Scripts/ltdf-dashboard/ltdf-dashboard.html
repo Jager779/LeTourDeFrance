@@ -15,7 +15,7 @@
             </div>
             <ul class="pagination pagination-sm">
                 <li><a href="#">&laquo;</a></li>
-                <li ng-repeat="stage in model.stages | limitTo: 5">
+                <li ng-repeat="stage in model.stagesToShow | limitTo: 5">
                     <a href="#">{{$index+1}}</a>
                 </li>
                 <li><a href="#">&raquo;</a></li>
