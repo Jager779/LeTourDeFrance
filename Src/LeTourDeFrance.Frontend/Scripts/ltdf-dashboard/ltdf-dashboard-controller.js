@@ -6,27 +6,20 @@
 
 
         (function() {
-            ltdfDashboardService.getRiders()
-                .success(function(data) {
-                    $scope.model.riders = data;
-                    console.log('yay');
-                    console.log(data);
-                })
-                .error(function(data) {
-                        console.log('nay');
-                    }
-                );
             ltdfDashboardService.getStages().
                 success(function(data) {
                     $scope.model.stages = data;
                     console.log('yay');
                     console.log(data);
                     $scope.model.selectedStage = $scope.model.stages[0];
+                    $scope.model.stagesToShow = split($scope.model.stages, 4);
                 })
                 .error(function(data) {
                         console.log('nay');
                     }
                 );
+
+            
         })();
 
         $scope.model.nextPage = function(index) {
@@ -35,6 +28,15 @@
             }
         };
 
+        function split(a, n) {
+            var len = a.length, out = [], i = 0;
+            while (i < len) {
+                var size = Math.ceil((len - i) / n--);
+                out.push(a.slice(i, i + size));
+                i += size;
+            }
+            return out;
+        }
 
         $scope.loadImageOnClick = function(stage) {
             console.log("clicked stage: " + stage);

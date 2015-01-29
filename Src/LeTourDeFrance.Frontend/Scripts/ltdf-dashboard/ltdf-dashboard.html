@@ -13,17 +13,17 @@
                     <small> Type: {{stage.Types}}</small>
                 </a>
             </div>
-            <ul class="pagination pagination-sm">
-                <li><a href="#">&laquo;</a></li>
-                <li ng-repeat="stage in model.stagesToShow | limitTo: 5">
-                    <a href="#">{{$index+1}}</a>
-                </li>
-                <li><a href="#">&raquo;</a></li>
-            </ul>
+                <ul class="pagination pagination-sm">
+                    <li><a href="#">&laquo;</a></li>
+                    <li ng-repeat="stage in model.stagesToShow | limitTo: 5">
+                        <a href="#">{{$index+1}}</a>
+                    </li>
+                    <li><a href="#">&raquo;</a></li>
+                </ul>
         </div>
     </div>
     <div class="col-xs-5"><label for="map">Map</label>
-        <img ng-src="{{ model.imagePath }}" class="img-responsive" id="map"/>
+        <img ng-src="{{ model.imagePath }}" class="img-responsive" id="map" alt=""/>
     </div>
     <div class="col-xs-4">
         <label for="top5">Top 5 Racers</label>
